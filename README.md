@@ -79,7 +79,78 @@ const developer = {
 ## ⏱️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-<!-- WakaTime stats will be automatically updated here -->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.6%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 168.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 74 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 2 Public Repositories 
+ > 
+> 🔑 29 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+🌆 Daytime                287 commits         ████████████░░░░░░░░░░░░░   49.65 % 
+🌃 Evening                208 commits         █████████░░░░░░░░░░░░░░░░   35.99 % 
+🌙 Night                  47 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   115 commits         █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
+Tuesday                  94 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+Wednesday                78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Thursday                 77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+Friday                   85 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Saturday                 43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+Sunday                   86 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+Java                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/chhag/chhag/main/assets/bar_graph.png)
+
+
+ Last Updated on 12/08/2025 15:00:27 UTC
 <!--END_SECTION:waka-->
 
 ## 🎯 Current Focus
