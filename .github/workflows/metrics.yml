@@ -4,7 +4,7 @@ on:
   schedule: [{cron: "0 0 * * *"}]
   # Lines below allow you to run workflow manually from the web interface
   workflow_dispatch:
-  push: {branches: ["master", "main"]}
+  push: {branches: ["master", "main", "dev"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
