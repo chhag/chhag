@@ -6,6 +6,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/chhag?style=social)](https://github.com/chhag)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?style=flat&logo=Firefox-Browser&logoColor=white)](https://chhag.github.io)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gaurav.chhabra@gmail.com)
 
 </div>
 
@@ -29,8 +30,6 @@ const developer = {
 
 ### Frontend Development
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
@@ -54,28 +53,24 @@ const developer = {
 
 </div>
 
-## 📊 GitHub Analytics
+## 📈 Advanced Metrics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chhag&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chhag&layout=compact&langs_count=8&theme=algolia"/>
+![Metrics](https://github.com/chhag/chhag/blob/main/github-metrics.svg)
 
 </div>
 
-<div align="center">
+**Comprehensive GitHub Analytics** featuring:
+- Complete language statistics including private repositories
+- Contribution patterns and activity tracking
+- Achievement badges and notable contributions
+- Calendar heatmap with full-year view
+- Repository insights and collaboration metrics
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=chhag&theme=algolia)](https://git.io/streak-stats)
+*Auto-updated daily via GitHub Actions workflow*
 
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chhag&theme=react-dark&bg_color=20232a&hide_border=true)
-
-</div>
-
-## ⏱️ Yearly Development Breakdown
+## ⏱️ Development Time Breakdown
 
 <div align="center">
 
@@ -157,4 +152,5 @@ const developer = {
 
 ⭐️ From [chhag](https://github.com/chhag) with ❤️
 
+</div>
 </div>
