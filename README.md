@@ -65,7 +65,7 @@ Senior software engineer with extensive experience in full-stack development and
 
 <div align="center">
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=chhag&theme=algolia&layout=compact)](https://wakatime.com/@chhag)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@chhag&theme=algolia&layout=compact)](https://wakatime.com/@chhag)
 
 </div>
 
