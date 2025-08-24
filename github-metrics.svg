@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            440 Commits
+                            442 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="101.04276545477818" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="101.04276545477818" y="0" width="98.18877863381839" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="199.23154408859656" y="0" width="88.43824870070564" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="287.6697927893022" y="0" width="75.41831502949623" height="8" fill="#438eff"/>
-                    <rect mask="url(#languages-bar)" x="363.08810781879845" y="0" width="69.62824728200073" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="432.71635510079915" y="0" width="24.68128568658554" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="457.3976407873847" y="0" width="1.4602219770225304" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="458.85786276440723" y="0" width="1.1421372355927741" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="99.77643432094536" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="99.77643432094536" y="0" width="96.95821544785066" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="196.734649768796" y="0" width="93.09489296112348" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="289.82954272991947" y="0" width="74.47312553519438" height="8" fill="#438eff"/>
+                    <rect mask="url(#languages-bar)" x="364.3026682651139" y="0" width="68.75562253810584" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="433.0582908032197" y="0" width="24.371964377461893" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="457.43025518068157" y="0" width="1.4419215619112862" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="458.8721767425929" y="0" width="1.1278232574070903" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2317,10 +2317,10 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-10.2, 11.4)">
+                            <g transform="translate(-10.2, 11.1)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6 0,1.6 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6 1.7,2.6 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.9 0,1.9 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.9 1.7,2.9 z"/>
                             </g>
                         </g>
                     </g>
@@ -2335,6 +2335,63 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">chhag/mrl-mft-predictor_v7</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c3c2fa0</div>
+                                        <div class="message">feat: Enhance feature detection and transformer artifact loading
+
+- Added a new function `detect_static_features` to heuristically identify static features in a DataFrame based on low standard deviation and few unique values.
+- Updated `load_transformer_artifacts` to include loading of static features from a new optional `static_features.json` file.
+- Introduced comprehensive tests for the new feature detection logic and the updated artifact loading functionality.
+- Added multiple test cases for edge scenarios in feature detection and artifact loading, ensuring robustness against missing files and NaN values.
+- Created new test files for extended coverage of data labels, dataset protocols, and model training, including smoke tests for the TFT model with artifacts.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">chhag/mrl-mft-predictor_v7</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d6cb00a</div>
+                                        <div class="message">Refactor training and transformer fitting scripts; enhance multi-task loss computation
+
+- Simplified `train_tcn.py` by removing unnecessary imports and restructuring argument parsing.
+- Integrated subprocess call to `train_seq.py` for model training, allowing for more flexible configurations.
+- Updated `fit_transformer.py` to support loading existing transformers and saving artifacts consistently.
+- Added `build_target` function in `labels.py` for creating shifted target series with classification and regression modes.
+- Enhanced model initialization in `__init__.py` to provide consistent defaults for various sequence models.
+- Removed unused imports from `patchtst.py` and `tcn.py`.
+- Expanded `torch_utils.py` to include a new `multitask_loss` function for better handling of multi-task training scenarios.
+- Modified `trainer_common.py` to support new loss functions and improved data loading with optional feature artifacts.
+- Created new smoke tests in `test_smoke_training.py` to validate training pipeline with and without artifacts.
+- Updated paths in existing tests to reflect new directory structure.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -2385,52 +2442,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">chhag/chhag</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1e6ee6a</div>
-                                        <div class="message">Updated with Dev Metrics</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">chhag/chhag</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a2f1aab</div>
-                                        <div class="message">Updated with Dev Metrics</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Aug 2025, 20:06:01 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Aug 2025, 14:40:51 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
