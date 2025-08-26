@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            444 Commits
+                            446 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -171,7 +171,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    168 MB used
+                                    169 MB used
                                 </div>
                             </section>
                             <section>
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="101.68572171171272" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="101.68572171171272" y="0" width="97.44023827419797" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="199.1259599859107" y="0" width="94.68800604248808" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="293.81396602839874" y="0" width="72.72938892395611" height="8" fill="#438eff"/>
-                    <rect mask="url(#languages-bar)" x="366.54335495235483" y="0" width="67.14575729629432" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="433.68911224864917" y="0" width="23.801311725684954" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="457.49042397433413" y="0" width="1.4081599680481365" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="458.89858394238223" y="0" width="1.1014160576177197" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="116.19611191172363" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="116.19611191172363" y="0" width="93.49427249997593" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="209.69038441169957" y="0" width="90.85349539585387" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="300.5438798075534" y="0" width="69.78412026947655" height="8" fill="#438eff"/>
+                    <rect mask="url(#languages-bar)" x="370.32800007702997" y="0" width="64.42660487150437" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="434.75460494853434" y="0" width="22.837447483205857" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="457.5920524317402" y="0" width="1.3511347479033402" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="458.9431871796436" y="0" width="1.0568128203564562" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2292,10 +2292,10 @@
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6 0,1.6 z"/>
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6 1.7,2.6 z"/>
                             </g>
-                            <g transform="translate(-1.7, 6.699999999999999)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.3 0,1.3 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3 1.7,2.3 z"/>
+                            <g transform="translate(-1.7, 6.4)">
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6 0,1.6 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6 1.7,2.6 z"/>
                             </g>
                         </g>
                     </g>
@@ -2310,6 +2310,89 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">chhag/mrl-mft-predictor_v7</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5ee15cc</div>
+                                        <div class="message">Refactor transformer handling and enhance robustness in backtesting and streaming
+
+- Updated backtest_policy.py to safely load transformers and infer input dimensions, handling exceptions gracefully.
+- Modified feat.py to load transformer artifacts after metadata, ensuring raw transformers are returned for compatibility.
+- StreamBuffer now persists raw transformers to avoid issues with unpicklable wrapper instances.
+- Added conftest.py to provide a safe wrapper for building transformers, ensuring they are fitted on dummy data when possible.
+- Introduced comprehensive tests for edge cases in bracket optimization, including handling of missing data and quantiles.
+- Implemented tests for checkpoint architecture compatibility, ensuring models can save and load correctly across different architectures.
+- Created integration tests for feature pipelines, verifying transformer artifact creation and application of suggestions and winsorization.
+- Added tests for robustness in model construction, ensuring compatibility with various keyword arguments.
+- Enhanced multi-horizon training tests to validate end-to-end functionality with different horizons.
+- Improved StreamBuffer tests to validate transformer persistence and roundtrip functionality.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">chhag/mrl-mft-predictor_v7</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b388dbf</div>
+                                        <div class="message">Add comprehensive tests for prediction, simulation, and training functionalities
+
+- Introduced end-to-end tests for the prediction pipeline in `test_predict_plan_end2end.py`, ensuring the model can process input data and produce expected outputs.
+- Added integration tests in `test_predict_simulate_integration.py` to validate the simulation of predictions against market data.
+- Implemented latency and intrabar entry tests in `test_simulate_brackets_latency_intrabar.py` to verify the behavior of the trading strategy under different configurations.
+- Enhanced smoke tests for training pipelines in `test_smoke_training.py` to accommodate various return types from training functions.
+- Developed tests for the stream buffer functionality in `test_stream_buffer.py`, ensuring correct data handling and model predictions.
+- Created a suite of tests for the training loop in `test_train_loop.py`, covering scenarios with and without optimizers, and validating the return types.
+- Added tests for class weights in `test_train_loop_clsweight.py` to ensure proper handling of class imbalance during training.
+- Implemented signature tests for the training loop in `test_train_loop_signature.py` to ensure compatibility with various parameter configurations.
+- Validated the test metrics return from the training loop in `test_train_loop_test_eval.py`.
+- Created tests for time series data splitting in `test_trainer_splits.py` to ensure correct partitioning of datasets.
+- Added tests for the TrunkWithHead model's prediction capabilities in `test_trunk_withhead_predict_one.py`, ensuring various output formats are handled correctly.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">chhag/chhag</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#fbba71e</div>
+                                        <div class="message">Updated with Dev Metrics</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -2366,89 +2449,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">chhag/chhag</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e4ae938</div>
-                                        <div class="message">Updated with Dev Metrics</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">chhag/mrl-mft-predictor_v7</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c3c2fa0</div>
-                                        <div class="message">feat: Enhance feature detection and transformer artifact loading
-
-- Added a new function `detect_static_features` to heuristically identify static features in a DataFrame based on low standard deviation and few unique values.
-- Updated `load_transformer_artifacts` to include loading of static features from a new optional `static_features.json` file.
-- Introduced comprehensive tests for the new feature detection logic and the updated artifact loading functionality.
-- Added multiple test cases for edge scenarios in feature detection and artifact loading, ensuring robustness against missing files and NaN values.
-- Created new test files for extended coverage of data labels, dataset protocols, and model training, including smoke tests for the TFT model with artifacts.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">chhag/mrl-mft-predictor_v7</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d6cb00a</div>
-                                        <div class="message">Refactor training and transformer fitting scripts; enhance multi-task loss computation
-
-- Simplified `train_tcn.py` by removing unnecessary imports and restructuring argument parsing.
-- Integrated subprocess call to `train_seq.py` for model training, allowing for more flexible configurations.
-- Updated `fit_transformer.py` to support loading existing transformers and saving artifacts consistently.
-- Added `build_target` function in `labels.py` for creating shifted target series with classification and regression modes.
-- Enhanced model initialization in `__init__.py` to provide consistent defaults for various sequence models.
-- Removed unused imports from `patchtst.py` and `tcn.py`.
-- Expanded `torch_utils.py` to include a new `multitask_loss` function for better handling of multi-task training scenarios.
-- Modified `trainer_common.py` to support new loss functions and improved data loading with optional feature artifacts.
-- Created new smoke tests in `test_smoke_training.py` to validate training pipeline with and without artifacts.
-- Updated paths in existing tests to reflect new directory structure.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Aug 2025, 20:05:39 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Aug 2025, 14:41:50 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
