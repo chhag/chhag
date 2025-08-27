@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1208" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1192" class="">
     <defs>
         <style/>
     </defs>
@@ -42,7 +42,7 @@
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            447 Commits
+                            448 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -88,7 +88,7 @@
                                 <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                 <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                             </svg>
-                            14 Issues opened
+                            15 Issues opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="117.82889998921911" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="117.82889998921911" y="0" width="93.05025095530719" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="210.87915094452632" y="0" width="90.42201538873117" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="301.3011663332575" y="0" width="69.45270261097335" height="8" fill="#438eff"/>
-                    <rect mask="url(#languages-bar)" x="370.7538689442309" y="0" width="64.12063104179394" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="434.87449998602483" y="0" width="22.72898823285139" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="457.6034882188762" y="0" width="1.344717959775278" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="458.94820617865145" y="0" width="1.0517938213485705" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="125.36810214590881" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="125.36810214590881" y="0" width="91.00003498832265" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="216.36813713423146" y="0" width="88.42970845980153" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="304.797845594033" y="0" width="67.92242151681876" height="8" fill="#438eff"/>
+                    <rect mask="url(#languages-bar)" x="372.7202671108518" y="0" width="62.70783376048244" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="435.42810087133427" y="0" width="22.22819071634842" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="457.6562915876827" y="0" width="1.3150892139748358" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="458.9713808016575" y="0" width="1.0286191983425532" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2288,19 +2288,19 @@
                         </g>
                         <g transform="translate(88.39999999999999, 52)">
                             <g transform="translate(0, 5.4)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6 0,1.6 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6 1.7,2.6 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6 0,1.6 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6 1.7,2.6 z"/>
                             </g>
                             <g transform="translate(-1.7, 6.4)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6 0,1.6 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6 1.7,2.6 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6 0,1.6 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6 1.7,2.6 z"/>
                             </g>
-                            <g transform="translate(-3.4, 7.4)">
+                            <g transform="translate(-3.4, 6.800000000000001)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6 0,1.6 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6 1.7,2.6 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.2 0,2.2 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.2 1.7,3.2 z"/>
                             </g>
                         </g>
                     </g>
@@ -2315,6 +2315,79 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">chhag/mrl-mft-predictor_v7</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4b3925d</div>
+                                        <div class="message">Add comprehensive tests for backtesting and planner functionalities
+
+- Introduced tests for backtesting policies, including gate logging and external scores.
+- Implemented tests for saving each run and YAML batch processing with resume functionality.
+- Added tests for planner gate calibration, including temperature and Platt scaling.
+- Created tests for StreamBuffer edge cases, ensuring robustness in handling various data types.
+- Developed tests for Streamlit app, focusing on loading runs, handling missing files, and parsing timestamps.
+- Enhanced test coverage for equity and price plotting functionalities in the Streamlit dashboard.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#1 Create additional test cases for Backtest functionality</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened  in <span class="repo">chhag/mrl-mft-predictor_v7</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">chhag/mrl-mft-predictor_v7</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#cb3d753</div>
+                                        <div class="message">Add checkpoint reconstruction and streaming inference capabilities
+
+- Introduced a new systemd service for the stream_worker to manage its execution.
+- Added comprehensive documentation on checkpoint reconstruction and streaming inference processes.
+- Implemented an example adapter for transforming raw data into feature rows for the stream_worker.
+- Created a new infer_model script for single-row inference with support for both torch models and joblib predictors.
+- Developed the stream_worker script to handle live data streaming from Redis, including model inference and result publishing.
+- Updated training scripts to utilize a standardized checkpoint saving mechanism with metadata for improved model reconstruction.
+- Enhanced the trainer_common module with a new save_checkpoint_wrapper function to enforce metadata consistency.
+- Modified existing tests to validate the new checkpoint saving and loading mechanisms, ensuring compatibility with the updated architecture.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -2366,92 +2439,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">chhag/mrl-mft-predictor_v7</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b388dbf</div>
-                                        <div class="message">Add comprehensive tests for prediction, simulation, and training functionalities
-
-- Introduced end-to-end tests for the prediction pipeline in `test_predict_plan_end2end.py`, ensuring the model can process input data and produce expected outputs.
-- Added integration tests in `test_predict_simulate_integration.py` to validate the simulation of predictions against market data.
-- Implemented latency and intrabar entry tests in `test_simulate_brackets_latency_intrabar.py` to verify the behavior of the trading strategy under different configurations.
-- Enhanced smoke tests for training pipelines in `test_smoke_training.py` to accommodate various return types from training functions.
-- Developed tests for the stream buffer functionality in `test_stream_buffer.py`, ensuring correct data handling and model predictions.
-- Created a suite of tests for the training loop in `test_train_loop.py`, covering scenarios with and without optimizers, and validating the return types.
-- Added tests for class weights in `test_train_loop_clsweight.py` to ensure proper handling of class imbalance during training.
-- Implemented signature tests for the training loop in `test_train_loop_signature.py` to ensure compatibility with various parameter configurations.
-- Validated the test metrics return from the training loop in `test_train_loop_test_eval.py`.
-- Created tests for time series data splitting in `test_trainer_splits.py` to ensure correct partitioning of datasets.
-- Added tests for the TrunkWithHead model's prediction capabilities in `test_trunk_withhead_predict_one.py`, ensuring various output formats are handled correctly.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">chhag/chhag</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#fbba71e</div>
-                                        <div class="message">Updated with Dev Metrics</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">chhag/mrl-mft-predictor_v7</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c027552</div>
-                                        <div class="message">Add comprehensive tests for multi-horizon training and inference
-
-- Implemented tests for head propagation of H_list in training and inference scripts.
-- Created integration tests for the infer_seq script to validate JSON output and model artifact loading.
-- Added unit tests for MultiTaskHead to ensure correct output shapes and loss compatibility.
-- Developed tests for StreamBuffer functionality, including persistence and prediction.
-- Enhanced test coverage for multitask loss paths, ensuring proper handling of quantiles and NaNs.
-- Verified importability of training and prediction scripts, ensuring they expose a main() function.
-- Established a test for the creation of multi-horizon labels in the data loaders.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Aug 2025, 20:06:06 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Aug 2025, 14:40:58 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
