@@ -2329,34 +2329,21 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">chhag/chhag</span>
+                                        <span class="repo">Mandel-Fund/mrl-helm-starter</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7844293</div>
-                                        <div class="message">Updated with Dev Metrics</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Mandel-Fund/docs</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2a8ded5</div>
-                                        <div class="message">Create Strategy Overview &amp; Meta-Model Regime Detection.md</div>
+                                        <div class="sha">#6ce988e</div>
+                                        <div class="message">Add connectivity and metrics tests, enhance deployment and values testing
+
+- Introduced `test-connectivity.yaml` to validate service connectivity and health endpoints for monolith, predictor, trader, and Redis.
+- Added `test-metrics.yaml` to check metrics endpoints for planner and predictor when monitoring is enabled.
+- Created `deployment_test.yaml` to verify deployment configurations for monolith, planner, and predictor, including image correctness and workload separation.
+- Implemented `values_test.yaml` to ensure correct routing for trader to monolith or ibkr-router based on configuration.
+- Added `values.schema.json` to define a schema for values validation.
+- Updated `values.yaml` with new configurations for IB Gateway, monitoring, and resource management features.</div>
                                     </div>
                                 </div>
                             </section>
@@ -2370,9 +2357,9 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">main</span>
+                                        <span class="code">master</span>
                                         in
-                                        <span class="repo">Mandel-Fund/docs</span>
+                                        <span class="repo">chhag/ibkr-gateway-ibc-manager</span>
                                     </div>
                                 </div>
                             </section>
@@ -2386,7 +2373,7 @@
                                     <div class="content">
                                         Created new
                       repository
-                                        <span class="repo">Mandel-Fund/docs</span>
+                                        <span class="repo">chhag/ibkr-gateway-ibc-manager</span>
                                     </div>
                                 </div>
                             </section>
@@ -2399,14 +2386,34 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">chhag/chhag</span>
+                                        <span class="repo">Mandel-Fund/docs</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d23ac6e</div>
-                                        <div class="message">Updated with Dev Metrics</div>
+                                        <div class="sha">#674dbd0</div>
+                                        <div class="message">Create IB Gateway Running Options.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Mandel-Fund/docs</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c0d07dd</div>
+                                        <div class="message">Update Market Regime Lab — E2E ML + Trading Architecture.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -2416,7 +2423,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Sept 2025, 20:05:52 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Sept 2025, 14:41:02 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
