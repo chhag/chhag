@@ -2314,6 +2314,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#245ebf6</div>
+                                        <div class="message">Updated with Dev Metrics</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">chhag/chhag</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#e35c99e</div>
                                         <div class="message">Updated with Dev Metrics</div>
                                     </div>
@@ -2386,46 +2406,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Mandel-Fund/mrl-micro-v2</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#04e16df</div>
-                                        <div class="message">Add new features and improve tests for trading system
-
-- Introduced a new script `verify_tick_alllast.py` to check tick-by-tick data availability for CME futures.
-- Enhanced `test_bar_capture.py` to support parquet capture with legacy behavior.
-- Added `test_dbwriter_sqlite.py` to validate SQLite database writing functionality.
-- Updated `test_dynamic_bracket.py` to include missing fields for compatibility.
-- Modified `test_evchooser_hazard_fill.py` to ensure required fields are present in feature objects.
-- Improved `test_evchooser_safety.py` to validate safety mechanisms in EVChooser.
-- Removed obsolete `test_history_retention.py`.
-- Created `test_ingest_drain_tickbyticks.py` to test tick-by-tick data draining functionality.
-- Enhanced `test_new_features.py` to ensure required fields are included in feature objects.
-- Updated `test_online_updater_validation_and_rollback.py` to improve model update validation and rollback logic.
-- Refactored `test_sr_features.py` to ensure correct imports and functionality.
-- Added new tests for SR engine and vector functionality in `test_sr_utils.py`, `test_sr_vector.py`, and `test_sre_engine.py`.
-- Improved `test_tp_sl_regressors.py` to ensure compatibility with required fields and allow predictor processing time.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Sept 2025, 20:05:06 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Sept 2025, 14:42:49 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
